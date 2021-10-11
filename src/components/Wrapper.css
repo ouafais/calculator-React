@@ -1,0 +1,14 @@
+.Wrapper {
+  width: 340px;
+  height: 540px;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  background: rgb(0, 24, 69);
+  background: linear-gradient(
+    90deg,
+    rgba(0, 24, 69, 1) 35%,
+    rgba(8, 33, 80, 1) 100%
+  );
+}
